@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "pokedexcarpiogaibor": {
+      "hosting": {
+        "app": [
+          "pokedexcarpiogaibor"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "pokedexcarpiogaibor"
+  }
+}
