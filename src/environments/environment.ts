@@ -1,6 +1,6 @@
 
 export const environment = {
-  production: false,
+  production: true,
   firebaseConfig :{
     apiKey: "AIzaSyBd3IrO2CMdYKrIF4-KoiBkA5mx9wjtKgc",
     authDomain: "pokedexcarpiogaibor.firebaseapp.com",
